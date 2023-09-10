@@ -1,54 +1,65 @@
-# Movie-Recommendation-System-Web-Application-Project
-Building a Movie Recommendation System web application using Django framework and Recommendation technique called Collaborative Filtering 
-- Matrix Factorization Algorithm
-The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.  
+# Movie Recommendation System Web Application
 
-### Screenshot
+## Table of Contents
 
-###### Home page
-![home](https://user-images.githubusercontent.com/20842692/45380125-941d7500-b61f-11e8-852d-c09e9586b35b.png)
+- [Overview](#overview)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-###### Recommendation page
-![recom](https://user-images.githubusercontent.com/20842692/45380167-b57e6100-b61f-11e8-8ec0-e07c26daa4a3.jpg)
+## Overview
 
-###### Rating page
-![rate](https://user-images.githubusercontent.com/20842692/45380186-be6f3280-b61f-11e8-8ad6-8b967d1cba1a.png)
+Welcome to the Movie Recommendation System web application built using the Django framework and the Collaborative Filtering Matrix Factorization algorithm. This recommendation system suggests movies to users based on their preferences and the preferences of other users who have similar tastes. It analyzes user ratings to provide personalized movie recommendations.
 
-### Technologies Used
-#### Web Technologies
+## Screenshots
+
+### Home Page
+![Home Page](https://drive.google.com/file/d/1YYli-3yvwOlomuez4D2h2LOQKigDzK3M/view)
+
+### Recommendation Page
+![Recommendation Page](https://drive.google.com/file/d/1eDQPYeffLQbEsV5XA1T6IPyAZJEDcPhy/view?usp=sharing)
+
+### Rating Page
+![Rating Page](https://drive.google.com/file/d/1zL0Di4zAK_v41hDiypgfFjN4FLcPP9cV/view?usp=sharing)
+
+## Technologies Used
+
+### Web Technologies
+
 - Python
-- HTML 
+- HTML
 - CSS
 - JavaScript
-- Bootstrap 
+- Bootstrap
 
-#### Python Packages 
+### Python Packages
+
 - Django
 - Numpy
-- Pandas 
+- Pandas
 - Scipy
 
-#### Database
+### Database
+
 SQLite
 
-##### Requirements
-```
-python 3.9.5
-pip 21.1.1
-virtualenv
-```
+## Getting Started
 
-##### Setup to run
+To run this project locally, follow these steps:
 
-- Download zip file to your local machine
-- Extract the zip file
-- Open terminal/cmd promt
-- Goto that Path
+1. Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/Wajahat-Ali-Khan/MovieRecommendation.git
+
 
 Example
 
 ```
-cd ~/Desktop/Movie-Recommender-System-Web-Application-master
+cd ../Movie-Recommender-System/MovieRecommendationApp
 ```
 
 Create a new virtual environment on that directory
@@ -78,7 +89,7 @@ pip install -r requirements.txt
 
 Go to MovieRecommendationApp directory
 ```
-cd ../Movie-Recommender-System/MovieRecommendationApp
+cd ../MovieRecommendation/MovieRecommendationApp
 ```
 
 Command line to run the program
@@ -91,4 +102,22 @@ Now open the browser and go to this address
 ```
 http://127.0.0.1:8000
 ```
+
+### Usage
+
+    - Register and log in to the web application.
+    - Rate movies you have watched to generate recommendations.
+    - Explore recommended movies based on your preferences.
+    - Enjoy personalized movie suggestions!
+
+### Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+    - Fork the repository.
+    - Create a new branch for your feature or bug fix.
+    - Make your changes and commit them with descriptive messages.
+    - Push your branch to your fork.
+    - Create a pull request to the main repository's main branch.
+
 Thank you! 
