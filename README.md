@@ -17,13 +17,13 @@ Welcome to the Movie Recommendation System web application built using the Djang
 ## Screenshots
 
 ### Home Page
-![Home Page](https://drive.google.com/file/d/1YYli-3yvwOlomuez4D2h2LOQKigDzK3M/view)
+![Home Page](https://github.com/Wajahat-Ali-Khan/MovieRecommendation/blob/main/MovieRecommendationApp/media/readme/RECOMMEND.JPG)
 
 ### Recommendation Page
-![Recommendation Page](https://drive.google.com/file/d/1eDQPYeffLQbEsV5XA1T6IPyAZJEDcPhy/view?usp=sharing)
+![Recommendation Page](https://github.com/Wajahat-Ali-Khan/MovieRecommendation/blob/main/MovieRecommendationApp/media/readme/RECOMMEND1.JPG)
 
 ### Rating Page
-![Rating Page](https://drive.google.com/file/d/1zL0Di4zAK_v41hDiypgfFjN4FLcPP9cV/view?usp=sharing)
+![Rating Page](https://github.com/Wajahat-Ali-Khan/MovieRecommendation/blob/main/MovieRecommendationApp/media/readme/RECOMMEND2.JPG)
 
 ## Technologies Used
 
